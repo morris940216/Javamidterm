@@ -4,7 +4,7 @@ public class EX03 {
     public static void main(String[] args) {
         Display.openWorld("mop.map");
         Display.setSize(10, 10);
-        Display.setSpeed(5);
+        Display.setSpeed(10);
 
         new Thread(new MopBot()).start();
     }

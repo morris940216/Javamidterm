@@ -1,8 +1,8 @@
 import edu.fcps.Digit;
 
-public class ash extends Digit implements Runnable{
+public class Dash extends Digit implements Runnable{
 
-   public ash(int x,int y){
+   public Dash(int x,int y){
       super(x,y);
       
    }

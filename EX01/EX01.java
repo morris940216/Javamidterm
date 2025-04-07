@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
       new Thread(new E(9, 18)).start();
       new Thread(new C(16, 18)).start();  
       new Thread(new S(23, 18)).start(); 
-      new Thread(new ash(9, 9)).start();
+      new Thread(new Dash(9, 9)).start();
       new Thread(new One(16, 9)).start();
       new Thread(new Four(23, 9)).start(); 
         

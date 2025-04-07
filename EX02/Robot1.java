@@ -21,6 +21,7 @@ public class Robot1 extends Robot implements Runnable {
        turnLeft();
        turnLeft();
        pick();
+       move();
        
 
        
